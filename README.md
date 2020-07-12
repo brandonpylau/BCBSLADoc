@@ -1,2 +1,2 @@
-# BCBSLADoc
-The goal of this project is to create a "High Level" Project Documentation Plan with Metrics, with deliverables, objectives, etc clearly identified.
+# Blue Cross and Blue Shield of Louisiana Project Documentation Plan
+The goal of this project is to create a "High Level" Project Documentation Plan with Metrics, with deliverables, objectives, etc clearly identified. Using the company **Blue Cross and Blue Shield of Louisiana**, the scenario is to develop a project plan for updating the current iOS mobile application of BCBSLA to improve the user interface of the app as well as update the map in the app to show available COVID-19 testing sites.
